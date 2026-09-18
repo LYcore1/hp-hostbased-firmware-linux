@@ -1,5 +1,4 @@
 ```bash
-cat > README.md << 'EOF'
 # HP Host-Based Firmware Loader for Linux
 
 A workaround for HP host-based printers that require firmware to be uploaded on every boot in Linux.
